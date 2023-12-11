@@ -22,9 +22,6 @@ This project encompasses a comprehensive exploration of a loan database as part 
 ## 📃 Screenshots
 Here are some visuals from the project:
 
-![Machine Learning Model](/images/machine_learning_model.png)
-*Machine learning model predicting loan default likelihood.*
-
-![Tableau Dashboard](/images/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/Dashboard%201.png)
 *Interactive dashboard please see in Tableau Dashboard [Loan Dashboard](https://public.tableau.com/app/profile/rui.huang7025/viz/LoanDashboard_17018580855110/Dashboard1).*
 
