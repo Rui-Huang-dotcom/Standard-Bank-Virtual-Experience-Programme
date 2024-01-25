@@ -28,9 +28,14 @@ The number of default loan or not for women is 75 and 37, for men is 339 and 150
 
 6. How do the incomes of those who are employed compare to those who are self employed based on the historical dataset? 
 
+![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/1.png) 
+
 7. Are applicants with a credit history more likely to default than those who do not have one?
 
+![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/2.png) 
+
 8. Is there a correlation between the applicant's income and the loan amount they applied for? 
+
 ### 2. Data Visualation
 
 Here are a visual:
@@ -40,7 +45,11 @@ Here are a visual:
 *Interactive dashboard please see in Tableau Dashboard [Loan Dashboard](https://public.tableau.com/app/profile/rui.huang7025/viz/LoanDashboard_17018580855110/Dashboard1).*
 
 ### 3. Data Modelling
+
+![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/3.png) 
+
 ### 4. Hypothesis Testing
 
+![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/4.png) 
 
 
