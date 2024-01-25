@@ -9,6 +9,7 @@ Standard Bank is embracing the digital transformation wave and intends to use ne
 1. An overview of the data. (HINT: Provide the number of records, fields and their data types. Do for both).
 
 q
+
 2. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
 
 3. How do the the loan statuses compare? i.e. what is the distrubition of each?
