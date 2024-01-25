@@ -8,7 +8,7 @@ Standard Bank is embracing the digital transformation wave and intends to use ne
 ### 1. EDA
 1. An overview of the data. (HINT: Provide the number of records, fields and their data types. Do for both).
 
-Train datset has 614 records and 13 colums, test datset has 366 records and 12 colums. Data types include float, int and object.
+\Train datset has 614 records and 13 colums, test datset has 366 records and 12 colums. Data types include float, int and object.
 
 2. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
 
@@ -51,8 +51,11 @@ Here are a visual:
 
 ![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/3.png) 
 
+Logistic regression has the higest classification accuracy and AUC.
+
 ### 4. Hypothesis Testing
 
 ![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/4.png) 
 
+The mean loan amount of male is more than that of female.
 
