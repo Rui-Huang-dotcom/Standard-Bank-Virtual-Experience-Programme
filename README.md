@@ -36,6 +36,9 @@ The number of default loan or not for women is 75 and 37, for men is 339 and 150
 
 8. Is there a correlation between the applicant's income and the loan amount they applied for? 
 
+![](https://github.com/Rui-Huang-dotcom/Standard-Bank-Virtual-Experience-Programme/blob/main/image/__results___47_1.png)
+
+There's a positive correlation between the applicant's income and the loan amount.
 ### 2. Data Visualation
 
 Here are a visual:
