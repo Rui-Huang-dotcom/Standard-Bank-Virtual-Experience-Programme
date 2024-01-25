@@ -7,20 +7,21 @@ Standard Bank is embracing the digital transformation wave and intends to use ne
 ##  👨‍💻 Analysis 
 ### 1. EDA
 1. An overview of the data. (HINT: Provide the number of records, fields and their data types. Do for both).
-a
-2. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
+   
+  a
+3. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
 
-3. How do the the loan statuses compare? i.e. what is the distrubition of each?
+4. How do the the loan statuses compare? i.e. what is the distrubition of each?
 
-4. How do women and men compare when it comes to defaulting on loans in the historical dataset?
+5. How do women and men compare when it comes to defaulting on loans in the historical dataset?
 
-5. How many of the loan applicants have dependents based on the historical dataset?
+6. How many of the loan applicants have dependents based on the historical dataset?
 
-6. How do the incomes of those who are employed compare to those who are self employed based on the historical dataset? 
+7. How do the incomes of those who are employed compare to those who are self employed based on the historical dataset? 
 
-7. Are applicants with a credit history more likely to default than those who do not have one?
+8. Are applicants with a credit history more likely to default than those who do not have one?
 
-8. Is there a correlation between the applicant's income and the loan amount they applied for? 
+9. Is there a correlation between the applicant's income and the loan amount they applied for? 
 - Conducted an exploratory data analysis on a loan database, unearthing valuable insights and intricate patterns.
 - Utilized machine learning models to predict the likelihood of loan default, achieving a mean classification accuracy rate of 76%.
 - Created interactive Tableau dashboards, providing an intuitive interface for stakeholders to access and act on valuable insights.
