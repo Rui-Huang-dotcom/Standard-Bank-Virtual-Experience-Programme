@@ -8,7 +8,7 @@ Standard Bank is embracing the digital transformation wave and intends to use ne
 ### 1. EDA
 1. An overview of the data. (HINT: Provide the number of records, fields and their data types. Do for both).
 
-  &nbsp q
+  &nbsp; q
 
 2. What data quality issues exist in both train and test? (HINT: Comment any missing values and duplicates)
 
